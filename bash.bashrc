@@ -8,12 +8,10 @@ clear
 echo -e "\e[5mBLOODROSE : Activated"
 echo "----------------------------" | lolcat
 echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+,-,---. .    ,---. ,---. .-,--. .-,--. ,---. .---. `.--- 
+ '|___/ |    |   | |   | ' |   \ `|__/ |   | \___   |__  
+ ,|   \ |    |   | |   | , |   /  | \  |   |     \ ,|    
+`-^---' `--' `---' `---' `-^--' `-'  ` `---' `---' `^--- " | lolcat
 echo ""
   
 date | lolcat
