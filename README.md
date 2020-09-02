@@ -1,5 +1,5 @@
-# jarvis-welcome 
-#### Beautify your Termux App With a warm welcome
+# Termux-V2
+#### Beautify Termux 
 
 ## [+] Installation & Usage
 ```
@@ -22,12 +22,3 @@ cd jarvis-welcome
 
 bash rvt.sh
 ```
-# thanks to https://github.com/htr-tech 
- # For providing the code
-
-    
-## [+] Find Me on :
-#### Telegram :https://t.me/AmshenShanu
-#### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
-
-"# termux-v2" 
