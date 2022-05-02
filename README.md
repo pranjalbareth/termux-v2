@@ -1,4 +1,4 @@
-# Termux-V2
+# 🦄 Termux-V2
 #### Beautify Termux 
 
 ## [+] Installation & Usage
