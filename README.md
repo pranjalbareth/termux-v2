@@ -6,7 +6,7 @@
 apt update
 apt install git -y
 pkg install mpv -y
-git clone https://github.com/AmshenShanu07/jarvis-welcome.git
+git clone https://github.com/pranjalbareth/termux-v2.git
 cd termux-v2
 chmod +x *
 sh install.sh
